@@ -1,0 +1,12 @@
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\bin\Debug\StoneSciPaper.exe.config
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\bin\Debug\StoneSciPaper.exe
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\bin\Debug\StoneSciPaper.pdb
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.csprojResolveAssemblyReference.cache
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.GameForm.resources
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.MainForm.resources
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.Properties.Resources.resources
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.csproj.GenerateResource.cache
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.csproj.CoreCompileInputs.cache
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.exe
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.pdb
+C:\Users\Динар\source\repos\StoneSciPaper\StoneSciPaper\obj\Debug\StoneSciPaper.Instuctions.resources
